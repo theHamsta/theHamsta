@@ -28,6 +28,11 @@ Projects I like to contribute to:
 - [nvim-treesitter/playground](https://github.com/nvim-treesitter/playground) [![GitHub stars](https://img.shields.io/github/stars/nvim-treesitter/playground?style=social&label=Star&maxAge=2592000)](https://GitHub.com/nvim-treesitter/playground/stargazers/)
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) [![GitHub stars](https://img.shields.io/github/stars/mfussenegger/nvim-dap.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/mfussenegger/nvim-dap/stargazers/)
 
+### Qt Components
+
+- [theHamsta/QCommandPalette](https://github.com/theHamsta/QCommandPalette) Sublime-like command palette for QActions (modified version used in https://github.com/rizinorg/cutter)
+- [theHamsta/OpenCV-MatViewer](https://github.com/theHamsta/OpenCV-MatViewer) OpenGL-canvas for comparing cv::Mat videos or images
+
 ### Educational
 
 - [mt2-erlangen/mt2-erlangen.github.io](https://github.com/mt2-erlangen/mt2-erlangen.github.io) Build a Computer Tomography Pipeline with Java and ImageJ.
