@@ -15,9 +15,9 @@ Projects I like to contribute to:
 
 ### CT Reconstruction and Volume Processing
 
-- [theHamsta/pyronn-torch](https://i10git.cs.fau.de/theHamsta/pyronn-torch) ![GitHub stars](https://img.shields.io/github/stars/theHamsta/pyronn-torch.svg?style=social&label=Star&maxAge=2592000)
-- [theHamsta/volume2mesh](https://i10git.cs.fau.de/theHamsta/volume2mesh) ![GitHub stars](https://img.shields.io/github/stars/theHamsta/volume2mesh.svg?style=social&label=Star&maxAge=2592000)
-- [git5.cs.fau.de/PyConrad/pyCONRAD](https://i10git.cs.fau.de/git5.cs.fau.de/PyConrad/pyCONRAD)
+- [theHamsta/pyronn-torch](https://github.com/theHamsta/pyronn-torch) ![GitHub stars](https://img.shields.io/github/stars/theHamsta/pyronn-torch.svg?style=social&label=Star&maxAge=2592000)
+- [theHamsta/volume2mesh](https://github.com/theHamsta/volume2mesh) ![GitHub stars](https://img.shields.io/github/stars/theHamsta/volume2mesh.svg?style=social&label=Star&maxAge=2592000)
+- [git5.cs.fau.de/PyConrad/pyCONRAD](https:///git5.cs.fau.de/PyConrad/pyCONRAD)
 
 ### Neovim stuff
 
