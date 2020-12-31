@@ -8,7 +8,7 @@ Projects I like to contribute to:
 ### Code Generation and Simulation
 
 - [theHamsta/petalisp-cuda](https://github.com/theHamsta/petalisp-cuda)  ![GitHub stars](https://img.shields.io/github/stars/theHamsta/petalisp-cuda.svg?style=social&label=Star&maxAge=2592000)
-- [theHamsta/pystencils-autodiff](https://i10git.cs.fau.de/pycodegen/pystencils)
+- [theHamsta/pystencils_autodiff](https://i10git.cs.fau.de/pycodegen/pystencils)
 - [i10git.cs.fau.de/pycodegen/pystencils](https://i10git.cs.fau.de/pycodegen/pystencils)
 - [i10git.cs.fau.de/pycodegen/lbmpy](https://i10git.cs.fau.de/pycodegen/lbmpy)
 - [i10git.cs.fau.de/walberla/walberla](https://i10git.cs.fau.de/walberla/walberla)
