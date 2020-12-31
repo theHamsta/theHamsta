@@ -21,11 +21,11 @@ Projects I like to contribute to:
 
 ### Neovim stuff
 
+- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) Tree-sitter abstraction layer for Neovim (co-maintaining) [![GitHub stars](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/nvim-treesitter/nvim-treesitter/stargazers/)
+- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter) (co-maintaining) [![GitHub stars](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter-textobjects.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/nvim-treesitter/nvim-treesitter-textobjects/stargazers/)
+- [nvim-treesitter/playground](https://github.com/nvim-treesitter/playground) (co-maintaining) [![GitHub stars](https://img.shields.io/github/stars/nvim-treesitter/playground?style=social&label=Star&maxAge=2592000)](https://GitHub.com/nvim-treesitter/playground/stargazers/)
 - [theHamsta/nvim-dap-virtual-text](https://github.com/theHamsta/nvim-dap-virtual-text) [![GitHub stars](https://img.shields.io/github/stars/theHamsta/nvim-dap-virtual-text.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/nvim-treesitter/nvim-treesitter-textobjects/stargazers/)
 - [theHamsta/nvim-rocks](https://github.com/theHamsta/nvim_rocks) [![GitHub stars](https://img.shields.io/github/stars/theHamsta/nvim_rocks.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/theHamsta/nvim_rocks/stargazers/)
-- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) [![GitHub stars](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/nvim-treesitter/nvim-treesitter/stargazers/)
-- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter) [![GitHub stars](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter-textobjects.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/nvim-treesitter/nvim-treesitter-textobjects/stargazers/)
-- [nvim-treesitter/playground](https://github.com/nvim-treesitter/playground) [![GitHub stars](https://img.shields.io/github/stars/nvim-treesitter/playground?style=social&label=Star&maxAge=2592000)](https://GitHub.com/nvim-treesitter/playground/stargazers/)
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) [![GitHub stars](https://img.shields.io/github/stars/mfussenegger/nvim-dap.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/mfussenegger/nvim-dap/stargazers/)
 
 ### Qt Components
