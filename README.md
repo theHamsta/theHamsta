@@ -41,3 +41,6 @@ Projects I like to contribute to:
 
 - [mt2-erlangen/mt2-erlangen.github.io](https://github.com/mt2-erlangen/mt2-erlangen.github.io) Build a Computer Tomography Pipeline with Java and ImageJ.
 - [theHamsta/advent-of-code-2020](https://github.com/theHamsta/advent-of-code-2020) My Advent of Code solutions to learn F#
+
+![Stephan's github stats](https://github-readme-stats.vercel.app/api?username=theHamsta&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theHamsta&layout=compact&hide=shell)
