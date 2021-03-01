@@ -1,6 +1,5 @@
 # Hi there 👋 !
 
-I'm a researcher at [@PatternRecognitionLab](https://lme.tf.fau.de/) in collaboration with [@SystenSimulationChair](https://www.cs10.tf.fau.de/) in Erlangen (Germany).
 I like to make stuff work in Rust 🦀, C/C++ ⚙ , CUDA 🌊 and Python 🐍, but also Lisp 👾.
 
 Projects I like to contribute to:
