@@ -27,6 +27,11 @@ Projects I like to contribute to:
 - [theHamsta/nvim-rocks](https://github.com/theHamsta/nvim_rocks) [![GitHub stars](https://img.shields.io/github/stars/theHamsta/nvim_rocks.svg?style=social&label=Star)](https://GitHub.com/theHamsta/nvim_rocks/stargazers/)
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) [![GitHub stars](https://img.shields.io/github/stars/mfussenegger/nvim-dap.svg?style=social&label=Star)](https://GitHub.com/mfussenegger/nvim-dap/stargazers/)
 
+### Tree-Sitter
+
+- [theHamsta/tree-sitter-cuda](https://github.com/theHamsta/tree-sitter-cuda) [![GitHub stars](https://img.shields.io/github/stars/theHamsta/tree-sitter-cuda?style=social&label=Star)](https://GitHub.com/theHamsta/tree-sitter-cuda/stargazers/)
+- [theHamsta/tree-sitter-commonlisp](https://github.com/theHamsta/tree-sitter-commonlisp) [![GitHub stars](https://img.shields.io/github/stars/theHamsta/tree-sitter-commonlisp?style=social&label=Star)](https://GitHub.com/theHamsta/tree-sitter-commonlisp/stargazers/)
+
 ### Qt Components
 
 - [theHamsta/QCommandPalette](https://github.com/theHamsta/QCommandPalette) Sublime-like command palette for QActions (modified version used in https://github.com/rizinorg/cutter)
