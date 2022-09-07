@@ -45,6 +45,3 @@ Projects I like to contribute to:
 - [theHamsta/ash-rtx-renderer](https://github.com/theHamsta/ash-rtx-renderer) My first attempt at Vulkan Raytracing
 - [theHamsta/advent-of-code-2020](https://github.com/theHamsta/advent-of-code-2020) My Advent of Code solutions to learn F#
 - [theHamsta/advent-of-code-2021](https://github.com/theHamsta/advent-of-code-2021) Advent of Code solutions in Rust
-
-![Stephan's github stats](https://github-readme-stats.vercel.app/api?username=theHamsta&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theHamsta&layout=compact&hide=shell,c)
