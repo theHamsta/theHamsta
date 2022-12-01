@@ -46,4 +46,4 @@ Projects I like to contribute to:
 - Advent of code:
   - [theHamsta/advent-of-code-2020](https://github.com/theHamsta/advent-of-code-2020) My Advent of Code solutions to learn F#
   - [theHamsta/advent-of-code-2021](https://github.com/theHamsta/advent-of-code-2021) Advent of Code solutions in Rust
-  - [theHamsta/advent-of-code-2022](https://github.com/theHamsta/advent-of-code-2022) Advent of Code solutions in learn Go
+  - [theHamsta/advent-of-code-2022](https://github.com/theHamsta/advent-of-code-2022) Advent of Code solutions to learn Go
