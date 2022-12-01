@@ -43,6 +43,7 @@ Projects I like to contribute to:
 
 - [mt2-erlangen/mt2-erlangen.github.io](https://github.com/mt2-erlangen/mt2-erlangen.github.io) Build a Computer Tomography Pipeline with Java and ImageJ.
 - [theHamsta/ash-rtx-renderer](https://github.com/theHamsta/ash-rtx-renderer) My first attempt at Vulkan Raytracing
-- [theHamsta/advent-of-code-2020](https://github.com/theHamsta/advent-of-code-2020) My Advent of Code solutions to learn F#
-- [theHamsta/advent-of-code-2021](https://github.com/theHamsta/advent-of-code-2021) Advent of Code solutions in Rust
-- [theHamsta/advent-of-code-2022](https://github.com/theHamsta/advent-of-code-2021) Advent of Code solutions in learn Go
+- Advent of code:
+  - [theHamsta/advent-of-code-2020](https://github.com/theHamsta/advent-of-code-2020) My Advent of Code solutions to learn F#
+  - [theHamsta/advent-of-code-2021](https://github.com/theHamsta/advent-of-code-2021) Advent of Code solutions in Rust
+  - [theHamsta/advent-of-code-2022](https://github.com/theHamsta/advent-of-code-2022) Advent of Code solutions in learn Go
