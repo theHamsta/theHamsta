@@ -35,6 +35,7 @@ Projects I like to contribute to:
 - [theHamsta/tree-sitter-hlsl](https://github.com/theHamsta/tree-sitter-hlsl) [![GitHub stars](https://img.shields.io/github/stars/theHamsta/tree-sitter-hlsl?style=social&label=Star)](https://GitHub.com/theHamsta/tree-sitter-hlsl/stargazers/)
 - [theHamsta/tree-sitter-commonlisp](https://github.com/theHamsta/tree-sitter-commonlisp) [![GitHub stars](https://img.shields.io/github/stars/theHamsta/tree-sitter-commonlisp?style=social&label=Star)](https://GitHub.com/theHamsta/tree-sitter-commonlisp/stargazers/)
 - [theHamsta/tree-sitter-wgsl-bevy](https://github.com/theHamsta/tree-sitter-wgsl-bevy) [![GitHub stars](https://img.shields.io/github/stars/theHamsta/tree-sitter-wgsl-bevy?style=social&label=Star)](https://GitHub.com/theHamsta/tree-sitter-wgsl-bevy/stargazers/)
+- [theHamsta/tree-sitter-wgsl-bevy](https://github.com/theHamsta/tree-sitter-slang) [![GitHub stars](https://img.shields.io/github/stars/theHamsta/tree-sitter-slang?style=social&label=Star)](https://GitHub.com/theHamsta/tree-sitter-slang/stargazers/)
 
 ### Qt Components
 
