@@ -4,19 +4,6 @@ I like to make stuff work in Rust 🦀, C/C++ ⚙ , CUDA 🌊 and Python 🐍, b
 
 Projects I like to contribute to:
 
-### Code Generation and Simulation
-
-- [theHamsta/petalisp-cuda](https://github.com/theHamsta/petalisp-cuda)  ![GitHub stars](https://img.shields.io/github/stars/theHamsta/petalisp-cuda.svg?style=social&label=Star)
-- [theHamsta/pystencils_autodiff](https://i10git.cs.fau.de/pycodegen/pystencils)
-- [i10git.cs.fau.de/pycodegen/pystencils](https://i10git.cs.fau.de/pycodegen/pystencils)
-- [i10git.cs.fau.de/pycodegen/lbmpy](https://i10git.cs.fau.de/pycodegen/lbmpy)
-- [i10git.cs.fau.de/walberla/walberla](https://i10git.cs.fau.de/walberla/walberla)
-
-### CT Reconstruction and Volume Processing
-
-- [theHamsta/pyronn-torch](https://github.com/theHamsta/pyronn-torch) ![GitHub stars](https://img.shields.io/github/stars/theHamsta/pyronn-torch.svg?style=social&label=Star)
-- [theHamsta/volume2mesh](https://github.com/theHamsta/volume2mesh) ![GitHub stars](https://img.shields.io/github/stars/theHamsta/volume2mesh.svg?style=social&label=Star)
-- [git5.cs.fau.de/PyConrad/pyCONRAD](https:///git5.cs.fau.de/PyConrad/pyCONRAD)
 
 ### Neovim stuff
 
@@ -36,6 +23,21 @@ Projects I like to contribute to:
 - [theHamsta/tree-sitter-commonlisp](https://github.com/theHamsta/tree-sitter-commonlisp) [![GitHub stars](https://img.shields.io/github/stars/theHamsta/tree-sitter-commonlisp?style=social&label=Star)](https://GitHub.com/theHamsta/tree-sitter-commonlisp/stargazers/)
 - [theHamsta/tree-sitter-wgsl-bevy](https://github.com/theHamsta/tree-sitter-wgsl-bevy) [![GitHub stars](https://img.shields.io/github/stars/theHamsta/tree-sitter-wgsl-bevy?style=social&label=Star)](https://GitHub.com/theHamsta/tree-sitter-wgsl-bevy/stargazers/)
 - [theHamsta/tree-sitter-slang](https://github.com/theHamsta/tree-sitter-slang) [![GitHub stars](https://img.shields.io/github/stars/theHamsta/tree-sitter-slang?style=social&label=Star)](https://GitHub.com/theHamsta/tree-sitter-slang/stargazers/)
+
+### Code Generation and Simulation
+
+- [theHamsta/petalisp-cuda](https://github.com/theHamsta/petalisp-cuda)  ![GitHub stars](https://img.shields.io/github/stars/theHamsta/petalisp-cuda.svg?style=social&label=Star)
+- [theHamsta/pystencils_autodiff](https://i10git.cs.fau.de/pycodegen/pystencils)
+- [i10git.cs.fau.de/pycodegen/pystencils](https://i10git.cs.fau.de/pycodegen/pystencils)
+- [i10git.cs.fau.de/pycodegen/lbmpy](https://i10git.cs.fau.de/pycodegen/lbmpy)
+- [i10git.cs.fau.de/walberla/walberla](https://i10git.cs.fau.de/walberla/walberla)
+
+### CT Reconstruction and Volume Processing
+
+- [theHamsta/pyronn-torch](https://github.com/theHamsta/pyronn-torch) ![GitHub stars](https://img.shields.io/github/stars/theHamsta/pyronn-torch.svg?style=social&label=Star)
+- [theHamsta/volume2mesh](https://github.com/theHamsta/volume2mesh) ![GitHub stars](https://img.shields.io/github/stars/theHamsta/volume2mesh.svg?style=social&label=Star)
+- [git5.cs.fau.de/PyConrad/pyCONRAD](https:///git5.cs.fau.de/PyConrad/pyCONRAD)
+
 
 ### Qt Components
 
